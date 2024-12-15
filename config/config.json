@@ -1,0 +1,21 @@
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "collab",
+      "host": "localhost",
+      "dialect": "mysql",
+      "timezone": "+00:00",
+      "logging": true
+    },
+    "production": {
+      "username": "root",
+      "password": "",
+      "database": "collab",
+      "host": "localhost",
+      "dialect": "mysql",
+      "timezone": "+00:00",
+      "logging": false
+  }
+}
+  
